@@ -6,9 +6,6 @@ Arnau Muñoz Barrera
 Figma Prototype that simulates an user interface of building system where the user can control and act and certain areas, spaces or partitions.
 An user can open, close, lock, unlock and unlock shortly a door inside this elements.
 
-# MVC Example
-This project demonstrates how to implement the Model View Controller pattern.
-
 ### Setup
 
 **Open this link to the font code**:
