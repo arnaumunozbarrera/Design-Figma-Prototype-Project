@@ -1,4 +1,4 @@
-# Design-Figma-Prototype
+# Design Figma Prototype
 
 ### Autor: 
 Arnau Muñoz Barrera 
